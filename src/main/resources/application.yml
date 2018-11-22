@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@zszhongkai.3322.org:1521:orcl
+    username: INTEGRATED_SUPERVISION
+    password: ZSzhongkai#2017
